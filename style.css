@@ -1,0 +1,51 @@
+
+body {
+    background: -webkit-linear-gradient(-45deg, #cef8ff, #b3cdff);
+}
+
+h1 {
+    color: rgb(26, 60, 250);
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0.5;
+    padding: 1;
+}
+
+nav{
+    color:rgb(39, 53, 240);
+    text-align: center;
+}
+
+.alignleft{
+    float:left;
+}
+
+.alignright{
+    float:right;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    border-bottom:black, 1px, solid;
+    line-height: 24px;
+}
+
+h3{
+    margin:0;
+    padding:0;
+}
+
+h2{
+    margin:0;
+    padding:0;
+}
+
+hr {
+    height: 2px;
+    color: black;
+    margin: 3;
+    padding: 3;
+}
+
